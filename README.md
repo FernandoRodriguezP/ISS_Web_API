@@ -1,4 +1,4 @@
-# ISS_Web_API
+# ISS Web API
 El siguiente archivo muestra de manera sencilla cómo manejar una API Web mediante la librería HTTP <b>"Requests"</b> para Python.<br>
 Las herramientas básicas que se van a usar serán:<br>
 <li>GET: para hacer peticiones a urls. 
